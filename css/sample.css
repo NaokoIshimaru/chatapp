@@ -3,8 +3,6 @@ body{
     padding:0;
     text-align:left;
     font-size: 32px;
-    background-color: palevioletred;
-    
 }
 header{
     background-color: #fff;
@@ -13,7 +11,6 @@ header{
 }
 main{
     border-bottom:1px solid #ccc;
-    background-color: palevioletred;
 }
 footer{
     background-color: #fff;
@@ -32,7 +29,6 @@ ul{
     display:table;  /* 定義 */
     table-layout: fixed;
     width:100%;
-    background-color: palevioletred;
 }
 li{
     text-align: center;
@@ -41,10 +37,8 @@ li{
     background-color: #FFF;
     display:table-cell;  /* 定義 */
     cursor: pointer;
-    background-color: palevioletred;
 }
 li:hover{
     background: #0066CC;
     color:#fff;
-    background-color: palevioletred;
 }
